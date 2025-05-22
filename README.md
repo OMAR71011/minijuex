@@ -1,1 +1,1 @@
-# minijuex
+# minijeux
